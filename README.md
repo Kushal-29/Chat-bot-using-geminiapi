@@ -53,7 +53,7 @@ Feel free to fork and improve the chatbot with more features like:
 * API-based AI responses
 * Themes (light/dark mode)
 * Chat history saving
-
+ 
 ## 📄 License
 
 This project is open-source. Use it freely for learning or projects.

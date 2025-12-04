@@ -56,4 +56,4 @@ Feel free to fork and improve the chatbot with more features like:
  
 ## 📄 License
 
-This project is open-source. Use it freely for learning or projects.
+This project is open-source. Use it freely for learning or projects.          

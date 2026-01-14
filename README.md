@@ -4,11 +4,11 @@ A fully responsive and modern Chatbot User Interface built using HTML, CSS, and 
 # Chatbot Project. 
        
 A stylish, modern, and responsive chatbot UI built using **HTML, CSS, and JavaScript**. This project includes interactive animations, smooth transitions, a clean dark theme, and a message bubble system that mimics real chat applications. 
+ 
+## 🚀 Features.      
 
-## 🚀 Features.     
-
-* Fully responsive dark-themed chatbot UI    
-* Smooth animations (fade-in, pulsing header)  
+* Fully responsive dark-themed chatbot UI     
+* Smooth animations (fade-in, pulsing header)   
 * User and bot message design with different color bubbles 
 * Scrollable chat section with custom scrollbar 
 * Interactive input bar with glow effects on focus 
@@ -33,16 +33,16 @@ A stylish, modern, and responsive chatbot UI built using **HTML, CSS, and JavaSc
 
 
 ## ▶️ How to Run
-
+ 
 1. Download or clone the repository
 2. Open `index.html` in any browser
 3. Start chatting!
 
 ## 🌐 Deployment
     
-You can host this using **GitHub Pages**: 
-
-1. Go to **Settings → Pages** 
+You can host this using **GitHub Pages**:  
+ 
+1. Go to **Settings → Pages**  
 2. Select **Branch: main**, Folder: `/root`
 3. Hit **Save** and your chatbot will be live
 
@@ -50,7 +50,7 @@ You can host this using **GitHub Pages**:
 
 Feel free to fork and improve the chatbot with more features like:
 
-* API-based AI responses
+ API-based AI responses
 * Themes (light/dark mode)
 * Chat history saving
  

@@ -46,7 +46,7 @@ You can host this using **GitHub Pages**:
 2. Select **Branch: main**, Folder: `/root`
 3. Hit **Save** and your chatbot will be live
 
-## 🤝 Contribution  
+## 🤝 Contribution
 
 Feel free to fork and improve the chatbot with more features like:
 
@@ -56,4 +56,4 @@ Feel free to fork and improve the chatbot with more features like:
  
 ## 📄 License
 
-This project is open-source. Use it freely for learning or projects.          
+This project is open-source. Use it freely for learning or projects.

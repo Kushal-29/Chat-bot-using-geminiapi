@@ -1,11 +1,11 @@
 # Chat-bot-using-geminiapi
 A fully responsive and modern Chatbot User Interface built using HTML, CSS, and JavaScript, designed with a sleek dark theme and smooth animations. This chatbot layout mimics a real messaging application, featuring message bubbles, profile icons, animated headers, and interactive input effects. 
 
-# Chatbot Project. 
-       
+# Chatbot Project.
+  
 A stylish, modern, and responsive chatbot UI built using **HTML, CSS, and JavaScript**. This project includes interactive animations, smooth transitions, a clean dark theme, and a message bubble system that mimics real chat applications.
  
-## 🚀 Features.
+## 🚀 Features. 
 
 * Fully responsive dark-themed chatbot UI     
 * Smooth animations (fade-in, pulsing header)   
@@ -16,7 +16,6 @@ A stylish, modern, and responsive chatbot UI built using **HTML, CSS, and JavaSc
 * Lightweight and fast — pure HTML/CSS/JS
 
 ## 📂 Project Structure
-
 ```
 /your-project-folder
 │── index.html

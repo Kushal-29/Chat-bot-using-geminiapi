@@ -22,31 +22,31 @@ A stylish, modern, and responsive chatbot UI built using **HTML, CSS, and JavaSc
 │── style.css
 │── script.js
 │── /images (optional profile images)
-```
-
+```           
+              
 ## 🛠️ Technologies Used
 
 * **HTML5** – Structure
 * **CSS3** – Styling, animations, gradients, responsiveness
 * **JavaScript** – Sending messages, bot replies, UI interaction
-
+               
   
-## ▶️ How to Run
+## ▶️ How to Run        
   
 1. Download or clone the repository
 2. Open `index.html` in any browser
 3. Start chatting!
-
+                 
 ## 🌐 Deployment
-    
+                    
 You can host this using **GitHub Pages**:  
              
 1. Go to **Settings → Pages**    
 2. Select **Branch: main**, Folder: `/root`  
 3. Hit **Save** and your chatbot will be live
-
+             
 ## 🤝 Contribution
-               
+                            
 Feel free to fork and improve the chatbot with more features like:               
 
  API-based AI responses
